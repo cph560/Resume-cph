@@ -7,7 +7,7 @@ var app = new Vue({
     Email: 'pinhanc@umich.edu',
     personWeb: 'https://cph560.github.io/Resume-cph/',
     Address: 'Ann Arbor',
-    Major: 'Mechanical Engineer',
+    Major: 'Software Developer && Mechanical Engineer',
     image: 'images/大头照.JPG',
     
     Contact: [
